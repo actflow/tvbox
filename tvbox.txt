@@ -27,6 +27,7 @@
     {
       "name": "✍️香雅情（优爱腾芒）",
       "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-    },
+    }
   ]
+
 }
