@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "name": "🌹饭太硬",
+      "url": "http://www.饭太硬.com/tv"
+    },
+    {
+      "name": "🚖肥猫",
+      "url": "http://肥猫.com/"
+    },
+    {
+      "name": "👍蓝天",
+      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"
+    },
+    {
+      "name": "💗王二小（要配网盘)",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+    },
+    {
+      "name": "🐈南风",
+      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+    },
+    {
+      "name": "😍菜妮丝",
+      "url": "https://tv.菜妮丝.top"
+    },
+    {
+      "name": "✍️香雅情（优爱腾芒）",
+      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+    },
+  ]
+}
