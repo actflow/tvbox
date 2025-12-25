@@ -18,7 +18,7 @@
     },
     {
       "name": "🐈南风",
-      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
     {
       "name": "😍菜妮丝",
@@ -26,7 +26,8 @@
     },
     {
       "name": "✍️香雅情（优爱腾芒）",
-      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
     }
   ]
+
 }
