@@ -17,12 +17,32 @@
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     },
     {
+      "name": "💗小米",
+      "url": "http://miqk.cc/小米/DEMO.json"
+    },
+    {
+      "name": "🐈OK杰克",
+      "url": "http://ok321.top/ok"
+    },
+    {
       "name": "🐈南风",
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
     {
       "name": "😍菜妮丝",
       "url": "https://tv.菜妮丝.top"
+    },
+    {
+      "name": "😍潇洒",
+      "url": "https://9877.kstore.space/AnotherD/api.json"
+    },
+    {
+      "name": "😍讴歌",
+      "url": "https://xn--anna-wn6lw489o.v.nxog.top/m"
+    },
+    {
+      "name": "😍少儿",
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
     },
     {
       "name": "😍qist（集大成者）",
@@ -35,4 +55,5 @@
   ]
 
 }
+
 
