@@ -1,59 +1,60 @@
 {
   "urls": [
     {
-      "name": "🌹饭太硬",
+      "name": "0️⃣1️⃣饭太硬",
       "url": "http://www.饭太硬.com/tv"
     },
     {
-      "name": "🚖肥猫",
+      "name": "0️⃣2️⃣肥猫",
       "url": "http://肥猫.com/"
     },
     {
-      "name": "👍蓝天",
+      "name": "0️⃣3️⃣蓝天",
       "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"
     },
     {
-      "name": "💗王二小（要配网盘)",
+      "name": "0️⃣4️⃣王二小（要配网盘)",
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     },
     {
-      "name": "💗小米",
+      "name": "0️⃣5️⃣小米",
       "url": "http://miqk.cc/小米/DEMO.json"
     },
     {
-      "name": "🐈OK杰克",
+      "name": "0️⃣6️⃣OK杰克",
       "url": "http://ok321.top/ok"
     },
     {
-      "name": "🐈南风",
+      "name": "0️⃣7️⃣南风",
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
     {
-      "name": "😍菜妮丝",
+      "name": "0️⃣8️⃣菜妮丝",
       "url": "https://tv.菜妮丝.top"
     },
     {
-      "name": "😍潇洒",
+      "name": "0️⃣9️⃣潇洒",
       "url": "https://9877.kstore.space/AnotherD/api.json"
     },
     {
-      "name": "😍讴歌",
+      "name": "1️⃣0️⃣讴歌",
       "url": "https://xn--anna-wn6lw489o.v.nxog.top/m"
     },
     {
-      "name": "😍少儿",
+      "name": "1️⃣1️⃣少儿",
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
     },
     {
-      "name": "😍qist（集大成者）",
+      "name": "1️⃣2️⃣qist（集大成者）",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"
     },
     {
-      "name": "✍️香雅情（优爱腾芒）",
+      "name": "1️⃣3️⃣香雅情（优爱腾芒）",
       "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
     }
   ]
 
 }
+
 
 
