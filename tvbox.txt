@@ -17,7 +17,7 @@
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     },
     {
-      "name": "0️⃣5️⃣小米",
+      "name": "0️⃣5️⃣小米新",
       "url": "https://mpanso.me/DEMO.json"
     },
     {
@@ -55,6 +55,7 @@
   ]
 
 }
+
 
 
 
