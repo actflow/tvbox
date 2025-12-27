@@ -17,8 +17,8 @@
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     },
     {
-      "name": "0️⃣5️⃣小米",
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+      "name": "0️⃣5️⃣小米（失效）",
+      "url": "http://miqk.cc/小米/DEMO.json"
     },
     {
       "name": "0️⃣6️⃣OK杰克",
@@ -55,6 +55,7 @@
   ]
 
 }
+
 
 
 
