@@ -17,6 +17,10 @@
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
     },
     {
+      "name": "0️⃣4️⃣王二小备",
+      "url": "https://9280.kstore.vip/wex.json"
+    },
+    {
       "name": "0️⃣5️⃣小米",
       "url": "http://miqk.cc/小米/DEMO.json"
     },
@@ -55,6 +59,7 @@
   ]
 
 }
+
 
 
 
