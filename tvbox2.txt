@@ -34,7 +34,7 @@
     },
     {
       "name": "0️⃣9️⃣宝盒",
-      "url": "https://3043.kstore.space/bhvip/bh/bh2.json"
+      "url": "https://3043.kstore.space/bhvip/bh/bh.json"
     },
     {
       "name": "1️⃣0️⃣讴歌",
