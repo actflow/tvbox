@@ -63,7 +63,7 @@
     {
       "name": "1️⃣6️⃣牛二线路",
       "url": "https://9280.kstore.space/wex.json"
-    },
+    }
   ]
 
 }
