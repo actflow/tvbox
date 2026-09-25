@@ -10,7 +10,7 @@
     },
     {
       "name": "0️⃣3️⃣蓝天",
-      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"
+      "url": ""
     },
     {
       "name": "0️⃣4️⃣王二小（要配网盘)",
@@ -42,7 +42,7 @@
     },
     {
       "name": "1️⃣1️⃣短剧",
-      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
+      "url": ""
     },
     {
       "name": "1️⃣2️⃣qist（集大成者）",
@@ -54,7 +54,7 @@
     },
     {
       "name": "1️⃣4️⃣zhangqun1818",
-      "url": "http://zhangqun1818.serv00.net/zq/api.json"
+      "url": ""
     },
     {
       "name": "1️⃣5️⃣Clun在线",
