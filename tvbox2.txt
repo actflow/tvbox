@@ -17,10 +17,6 @@
       "url": "https://9280.kstore.vip/newwex.json"
     },
     {
-      "name": "0️⃣4️⃣牛二线路",
-      "url": "https://9280.kstore.space/wex.json"
-    },
-    {
       "name": "0️⃣5️⃣高天流云",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
     },
@@ -64,6 +60,10 @@
       "name": "1️⃣5️⃣Clun在线",
       "url": "https://clun.top/box.json"
     }
+    {
+      "name": "1️⃣6️⃣牛二线路",
+      "url": "https://9280.kstore.space/wex.json"
+    },
   ]
 
 }
