@@ -41,7 +41,7 @@
       "url": "http://rihou.cc:555/nzk/nzk0722.json"
     },
     {
-      "name": "1️⃣1️⃣分享在线",
+      "name": "！1️⃣1️⃣分享在线",
       "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json"
     },
     {
