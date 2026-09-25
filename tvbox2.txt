@@ -33,7 +33,7 @@
       "url": "https://9763.kstore.vip/aowu.json"
     },
     {
-      "name": "0️⃣9️⃣宝盒",
+      "name": "！0️⃣9️⃣宝盒",
       "url": "https://3043.kstore.space/bhvip/bh/bh.json"
     },
     {
