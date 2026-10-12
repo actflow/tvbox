@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "🏆💪顺顺帮，专治不顺⚽🀄💰",
-      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/xxooo/in/raw/in.bmp"
+      "url": "http://fty.xxooo.cf/tv"
     },
     {
       "name": "0️⃣2️⃣俊佬在线",
